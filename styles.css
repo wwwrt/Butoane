@@ -1,0 +1,72 @@
+.cutie {
+  height: 20px;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 15px;
+  width: auto;
+  margin-bottom: 10px;
+  color: white;
+
+  border: 2px solid #000;
+  border-radius: 50px;
+  -moz-border-radius: 50px;
+  font-weight: 600;
+}
+.cultxt {
+  color: gray;
+}
+
+.c0 {
+  background-color: white;
+  border-color: rgb(174, 36, 215);
+  color: rgb(174, 36, 215);
+}
+
+.c1 {
+  background-color: white;
+  border-color: rgb(107, 0, 117);
+  color: rgb(107, 0, 117);
+}
+
+.c2 {
+  background-color: white;
+  border-color: rgb(21, 239, 39);
+  color: rgb(21, 239, 39);
+}
+
+.c3 {
+  background-color: white;
+  border-color: rgb(80, 232, 255);
+  color: rgb(80, 232, 255);
+}
+
+.c4 {
+  background-color: white;
+  border-color: rgb(208, 121, 27);
+  color: rgb(208, 121, 27);
+}
+
+.c5 {
+  background-color: white;
+  border-color: rgb(192, 16, 16);
+  color: rgb(192, 16, 16);
+}
+
+.c7 {
+  background-color: white;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+}
+
+.c8 {
+  background-color: white;
+  border-color: rgb(237, 237, 237);
+  color: rgb(84, 88, 84);
+}
+
+.c9 {
+  background-color: white;
+  border-color: rgb(237, 237, 237);
+  color: rgb(84, 88, 84);
+  border-style: dashed;
+}
