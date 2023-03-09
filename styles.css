@@ -24,13 +24,15 @@
 .c1 {
   background-color: white;
   border-color: rgb(107, 0, 117);
+  border-radius: 50px;
   color: rgb(107, 0, 117);
 }
 
 .c2 {
-  background-color: white;
+  background-color: rgb(21, 239, 39);
   border-color: rgb(21, 239, 39);
-  color: rgb(21, 239, 39);
+  border-radius: 50px;
+  color: white
 }
 
 .c3 {
