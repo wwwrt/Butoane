@@ -8,7 +8,8 @@
   color: white;
 
   border: 2px solid #000;
-  border-radius: 5px;
+  border-radius: 50px;
+
   font-weight: 600;
 }
 .cultxt {
@@ -16,23 +17,21 @@
 }
 
 .c0 {
-  background-color: rgb(174, 36, 215);
+  background-color:white;
   border-color: rgb(174, 36, 215);
-  color: white;
+  color:rgb(174, 36, 215);
 }
 
 .c1 {
   background-color: white;
   border-color: rgb(107, 0, 117);
-  border-radius: 50px;
   color: rgb(107, 0, 117);
 }
 
 .c2 {
-  background-color: rgb(21, 239, 39);
+  background-color: white;
   border-color: rgb(21, 239, 39);
-  border-radius: 50px;
-  color: white
+  color: rgb(21, 239, 39);
 }
 
 .c3 {
